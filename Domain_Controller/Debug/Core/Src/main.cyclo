@@ -1,0 +1,10 @@
+../Core/Src/main.c:84:6:mqtt_incoming_publish_cb	2
+../Core/Src/main.c:93:6:mqtt_incoming_data_cb	4
+../Core/Src/main.c:111:6:do_connect	1
+../Core/Src/main.c:134:6:send_firmware_over_can	8
+../Core/Src/main.c:205:5:main	8
+../Core/Src/main.c:296:6:SystemClock_Config	4
+../Core/Src/main.c:356:13:MX_FDCAN1_Init	3
+../Core/Src/main.c:426:13:MX_GPIO_Init	1
+../Core/Src/main.c:487:6:MPU_Config	1
+../Core/Src/main.c:541:6:Error_Handler	1
